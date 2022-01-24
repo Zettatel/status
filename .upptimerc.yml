@@ -9,15 +9,17 @@ sites:
     url: https://zettatel.com
   - name: Zettatel Documentation
     url: https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview
+assignees: # Users to assign downtime issues (optional)
+  - ItsMurumba
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.zettatel.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Zettatel
+  introTitle: "**Zettatel** is a platform that enables customers send bulk sms to their end users in a centralized manner"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
