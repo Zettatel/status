@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 41,
+      "2022-02-02": 1277,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
@@ -51,7 +51,7 @@
     "url": "https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview",
     "icon": "https://favicons.githubusercontent.com/portal.zettatel.com",
     "slug": "zettatel-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,6 +62,8 @@
     "timeWeek": 504,
     "timeMonth": 483,
     "timeYear": 483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
