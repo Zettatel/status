@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-23": 653,
+      "2022-03-23": 684,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
@@ -83,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/zettatel.com",
     "slug": "zettatel-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 2909,
     "timeDay": 3134,
     "timeWeek": 2792,
     "timeMonth": 2770,
     "timeYear": 2909,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 31
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview",
     "icon": "https://favicons.githubusercontent.com/portal.zettatel.com",
     "slug": "zettatel-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 532,
-    "timeWeek": 459,
-    "timeMonth": 456,
-    "timeYear": 463,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 504,
+    "timeDay": 1760,
+    "timeWeek": 776,
+    "timeMonth": 543,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 31
     }
   }
 ]
