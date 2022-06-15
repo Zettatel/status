@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2022-06-15": 68,
+      "2022-06-15": 621,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -166,9 +166,9 @@
     "url": "https://zettatel.com",
     "icon": "https://favicons.githubusercontent.com/zettatel.com",
     "slug": "zettatel-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.86%",
@@ -178,6 +178,7 @@
     "timeMonth": 5589,
     "timeYear": 3459,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2022-06-07": 19,
       "2022-06-06": 194,
       "2022-06-05": 35,
