@@ -1,7 +1,7 @@
 url: https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview
-status: down
-code: 500
-responseTime: 275
-lastUpdated: 2024-01-11T19:42:57.762Z
+status: up
+code: 200
+responseTime: 517
+lastUpdated: 2024-01-11T20:09:02.929Z
 startTime: 2022-01-24T09:26:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
