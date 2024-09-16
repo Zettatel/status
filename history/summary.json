@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 62,
+      "2024-09-16": 992,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -413,18 +413,19 @@
     "url": "https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview",
     "icon": "https://icons.duckduckgo.com/ip3/portal.zettatel.com.ico",
     "slug": "zettatel-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
+    "time": 814,
     "timeDay": 12131,
     "timeWeek": 2305,
     "timeMonth": 3376,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-01-11": 26
     }
   }
