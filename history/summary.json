@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 63,
+      "2025-02-10": 823,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -422,9 +422,9 @@
     "url": "https://portal.zettatel.com/docs/api/?codeType=sample&apiType=rest&action=overview",
     "icon": "https://icons.duckduckgo.com/ip3/portal.zettatel.com.ico",
     "slug": "zettatel-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -434,6 +434,7 @@
     "timeMonth": 494,
     "timeYear": 916,
     "dailyMinutesDown": {
+      "2025-02-10": 0,
       "2025-01-26": 22
     }
   }
