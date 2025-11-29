@@ -1,7 +1,7 @@
 url: https://zettatel.com
-status: up
-code: 200
-responseTime: 3424
-lastUpdated: 2025-11-29T14:42:13.263Z
+status: down
+code: 415
+responseTime: 461
+lastUpdated: 2025-11-29T16:37:37.798Z
 startTime: 2022-01-24T09:26:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
