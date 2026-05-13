@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 1426,
+      "2026-05-13": 160,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -379,8 +380,7 @@
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
-      "2025-05-14": 1440,
-      "2025-05-13": 1440
+      "2025-05-14": 1440
     }
   },
   {
@@ -390,15 +390,15 @@
     "slug": "zettatel-website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "89.49%",
+    "uptimeDay": "96.05%",
     "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.07%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "98.91%",
-    "time": 3896,
-    "timeDay": 2846,
-    "timeWeek": 3971,
-    "timeMonth": 4035,
-    "timeYear": 3935,
+    "time": 3898,
+    "timeDay": 3761,
+    "timeWeek": 4092,
+    "timeMonth": 4123,
+    "timeYear": 3936,
     "dailyMinutesDown": {
       "2026-05-12": 139,
       "2026-05-11": 12,
@@ -468,10 +468,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 706,
-    "timeDay": 650,
-    "timeWeek": 532,
-    "timeMonth": 595,
-    "timeYear": 780,
+    "timeDay": 479,
+    "timeWeek": 525,
+    "timeMonth": 591,
+    "timeYear": 779,
     "dailyMinutesDown": {}
   }
 ]
