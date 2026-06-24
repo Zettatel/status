@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 113,
+      "2026-06-24": 166,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -390,7 +390,7 @@
     "slug": "zettatel-website",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "68.68%",
+    "uptimeDay": "72.30%",
     "uptimeWeek": "80.29%",
     "uptimeMonth": "84.66%",
     "uptimeYear": "98.01%",
