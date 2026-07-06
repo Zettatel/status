@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 285,
+      "2026-07-06": 534,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -388,17 +388,17 @@
     "url": "https://zettatel.com",
     "icon": "https://icons.duckduckgo.com/ip3/zettatel.com.ico",
     "slug": "zettatel-website",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "83.45%",
-    "uptimeMonth": "83.17%",
-    "uptimeYear": "97.80%",
-    "time": 3822,
-    "timeDay": 2982,
-    "timeWeek": 3166,
-    "timeMonth": 3092,
-    "timeYear": 3810,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "76.48%",
+    "uptimeWeek": "80.98%",
+    "uptimeMonth": "82.60%",
+    "uptimeYear": "97.75%",
+    "time": 3825,
+    "timeDay": 2992,
+    "timeWeek": 3232,
+    "timeMonth": 3111,
+    "timeYear": 3811,
     "dailyMinutesDown": {
       "2026-04-09": 106,
       "2026-04-10": 317,
@@ -451,7 +451,7 @@
       "2026-07-03": 152,
       "2026-07-04": 221,
       "2026-07-05": 382,
-      "2026-07-06": 21
+      "2026-07-06": 270
     }
   },
   {
